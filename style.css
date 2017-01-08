@@ -111,6 +111,7 @@ body {
 .jumbotron {
 	height: 350px; 
 	margin: 80px auto;
+	clear: both;
 }
 
 .jumbotron img{
