@@ -97,7 +97,7 @@ body {
   height:auto;
   margin: 0px 30px;
 }
-.main left{
+.main .left{
 	float: left ;
 	width: 60%;
 }
